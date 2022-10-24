@@ -6,6 +6,8 @@ Find out the sentiment conveyed by your words. Try out the project for yourself:
 
 ### Tech Stack:
 Python and various Machine Learning libraries.
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/logo_dark.svg" alt="matplotlib" width="40" height="40"/> </a><a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://files.anaconda.com/production/resources/open-source/nltk-logo.svg" alt="nltk" width="40" height="40"/> </a> <a href="https://gradio.app/" target="_blank" rel="noreferrer"> <img src="https://gradio.app/assets/gradio.svg" alt="gradio" width="40" height="40"/> </a></p>
 
 ### Installation:
 
